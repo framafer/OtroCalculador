@@ -81,7 +81,7 @@
                   <EmptySpace min="-2" pref="64" max="-2" attributes="0"/>
                   <Component id="jB_AlmacenarBD" min="-2" pref="108" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="45" max="-2" attributes="0"/>
-                  <Component id="jB_IrABaseDeDatos" min="-2" pref="135" max="-2" attributes="0"/>
+                  <Component id="jB_IrABaseDeDatos" min="-2" pref="185" max="-2" attributes="0"/>
                   <EmptySpace max="32767" attributes="0"/>
               </Group>
           </Group>
@@ -134,7 +134,7 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Segoe UI" size="18" style="1"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="Calculadora"/>
+            <Property name="text" type="java.lang.String" value="Calculadora de Paco"/>
           </Properties>
         </Component>
         <Component class="javax.swing.JLabel" name="jLabel2">
